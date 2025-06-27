@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 ¡Hola! Soy un programador joven de Perú con una pasión enorme por la tecnología y el desarrollo de software. Me encuentro en constante aprendizaje, siempre buscando mejorar mis habilidades y enfrentar nuevos retos que me ayuden a crecer profesional y personalmente.<br><br>Mi meta es sobresalir en el mundo del desarrollo, participando en proyectos innovadores y colaborando con personas que compartan la misma energía por crear soluciones útiles y eficientes. Me emociona la idea de contribuir en equipos dinámicos, donde pueda aportar con ideas frescas, dedicación y muchas ganas de seguir aprendiendo.<br><br>Siempre estoy abierto a nuevos desafíos, oportunidades de colaboración y feedback que me ayude a seguir evolucionando como desarrollador.
 
 
