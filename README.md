@@ -1,24 +1,77 @@
-# 💫 Sobre mi:
-¡Hola! Soy un programador joven de Perú con una pasión enorme por la tecnología y el desarrollo de software. Me encuentro en constante aprendizaje, siempre buscando mejorar mis habilidades y enfrentar nuevos retos que me ayuden a crecer profesional y personalmente.<br><br>Mi meta es sobresalir en el mundo del desarrollo, participando en proyectos innovadores y colaborando con personas que compartan la misma energía por crear soluciones útiles y eficientes. Me emociona la idea de contribuir en equipos dinámicos, donde pueda aportar con ideas frescas, dedicación y muchas ganas de seguir aprendiendo.<br><br>Siempre estoy abierto a nuevos desafíos, oportunidades de colaboración y feedback que me ayude a seguir evolucionando como desarrollador.
+<h1 align="center"> Bienvenido <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+</p>
 
+<img align="right" width=300px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl2ZTNiYXQ1MDRjb2NmcHdhNml6MjE3OHB2MmF1cmhzZzFmNTUyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+### 👨‍💻 Sobre mí
 
-## 🌐 Redes sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joahancito456) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joahan-carlo-nuñez-soto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joahan_456@outlook.com) 
-
-# 💻 Tecnología:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-# 📊 GitHub:
-![](https://github-readme-stats.vercel.app/api?username=Joahan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Joahan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joahan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trofeos
-![](https://github-profile-trophy.vercel.app/?username=Joahan&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Contribuciones
-![](https://github-contributor-stats.vercel.app/api?username=Joahan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Soy un desarrollador backend de Perú, especializado en **Java** y tecnologías del ecosistema **Spring**. Apasionado por construir soluciones robustas, escalables y mantenibles, con enfoque en buenas prácticas, patrones de diseño y calidad de código.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Joahan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💼 **Stack principal**  
+`Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`, `Hibernate`, `REST APIs`, `MySQL`, `PostgreSQL`, `Maven`, `JUnit`, `Mockito`
+
+🔧 **Herramientas y tecnologías complementarias**  
+`Docker`, `Git`, `GitHub Actions`, `IntelliJ IDEA`, `Postman`, `Linux`, `Swagger/OpenAPI`
+
+---
+
+🧠 **Enfoque profesional**  
+- Diseño y desarrollo de APIs RESTful eficientes y seguras  
+- Arquitectura limpia (**Clean Architecture**) y principios **SOLID**  
+- Pruebas unitarias y de integración  
+- Control de versiones y flujos Git (**GitFlow**)  
+- Automatización con **CI/CD** (en proceso de aprendizaje)
+
+---
+
+🚀 **Lo que me motiva**  
+- Resolver problemas del mundo real con software de calidad  
+- Trabajar en entornos colaborativos y dinámicos  
+- Aprender constantemente nuevas tecnologías y enfoques  
+- Contribuir con ideas, disciplina y pasión por el código limpio
+
+---
+
+📬 **Siempre abierto a nuevos desafíos**, proyectos interesantes y oportunidades para crecer como desarrollador backend.  
+Si quieres colaborar o tienes algún feedback, ¡estaré encantado de escucharlo!
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</span>
+
+<h4> Frameworks </h4>
+<span>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+</span>
+
+<h4> Base de Datos </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+
+
+<h4> Otras Tecnologías </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+
+</span>
+
+<h4> Redes Sociales </h4>
+<span>
+  <a href="www.linkedin.com/in/joahan-carlo-nuñez-soto"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/CarloSoto25444"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+
+</span>
