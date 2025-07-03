@@ -75,16 +75,13 @@ Si quieres colaborar o tienes algún feedback, ¡estaré encantado de escucharlo
   <a href="https://x.com/CarloSoto25444"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 
 </span>
-
-<div align="center">
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=JoahanCarlo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JoahanCarlo)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=JoahanCarlo&theme=material-palenight)](https://github.com/JoahanCarlo)
-</div>
-
 ----
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+<p>
+  <h3 align="center">Stats:</h3>
+<p>
+    <a align="left">
+      <p><img align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=JoahanCarlo&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="JoahanCarlo" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JoahanCarlo&show_icons=true&theme=dark&locale=en" alt="JoahanCarlo" /></p></a>  
+  </p>
 </p>
