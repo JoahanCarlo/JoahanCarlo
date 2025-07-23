@@ -71,7 +71,7 @@ Si quieres colaborar o tienes algún feedback, ¡estaré encantado de escucharlo
 
 <h4> Redes Sociales </h4>
 <span>
-  <a href="www.linkedin.com/in/joahan-carlo-nuñez-soto"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joahan-carlo-nuñez-soto"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/CarloSoto25444"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 
 </span>
